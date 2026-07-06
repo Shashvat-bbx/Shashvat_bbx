@@ -84,7 +84,7 @@
 
 ## 📊 Coding Profiles
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Monospace&ext=contest)](https://leetcode.com/u/Shashvat_bbx/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Shashvat_bbx?theme=dark&font=Monospace&ext=contest)](https://leetcode.com/u/Shashvat_bbx/)
 
 ---
 
